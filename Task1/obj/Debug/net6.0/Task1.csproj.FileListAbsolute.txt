@@ -1,0 +1,15 @@
+D:\EducationGB\HomeTaskSeminarC#\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+D:\EducationGB\HomeTaskSeminarC#\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\EducationGB\HomeTaskSeminarC#\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+D:\EducationGB\HomeTaskSeminarC#\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+D:\EducationGB\HomeTaskSeminarC#\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+D:\EducationGB\HomeTaskSeminarC#\Task1\bin\Debug\net6.0\Task1.exe
+D:\EducationGB\HomeTaskSeminarC#\Task1\bin\Debug\net6.0\Task1.deps.json
+D:\EducationGB\HomeTaskSeminarC#\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+D:\EducationGB\HomeTaskSeminarC#\Task1\bin\Debug\net6.0\Task1.dll
+D:\EducationGB\HomeTaskSeminarC#\Task1\bin\Debug\net6.0\Task1.pdb
+D:\EducationGB\HomeTaskSeminarC#\Task1\obj\Debug\net6.0\Task1.dll
+D:\EducationGB\HomeTaskSeminarC#\Task1\obj\Debug\net6.0\refint\Task1.dll
+D:\EducationGB\HomeTaskSeminarC#\Task1\obj\Debug\net6.0\Task1.pdb
+D:\EducationGB\HomeTaskSeminarC#\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+D:\EducationGB\HomeTaskSeminarC#\Task1\obj\Debug\net6.0\ref\Task1.dll
